@@ -1,0 +1,33 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.inner-container {
+  width: 1080px;
+}
+h1 {
+  font-size: 42px;
+  color: #333;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+.input-todo {
+  width: 800px;
+  height: 50px;
+  font-size: 35px;
+}
+
+#button-save {
+  width: 100px;
+  height: 50px;
+  background-color: blue;
+  color: white;
+  margin-left: 70px;
+  border-color: rgb(107, 163, 247);
+}
+
+li {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 32px;
+}

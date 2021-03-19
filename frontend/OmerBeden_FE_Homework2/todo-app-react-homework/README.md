@@ -1,7 +1,7 @@
 # Week7 React TodoApp
 
 # Netlify Deployed:
-[**netlify**](https://agitated-gates-2717d9.netlify.app/)
+[**NETLIFY**](https://agitated-gates-2717d9.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

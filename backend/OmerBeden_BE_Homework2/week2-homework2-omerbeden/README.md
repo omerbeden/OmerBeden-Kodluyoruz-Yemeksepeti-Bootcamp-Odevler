@@ -16,3 +16,6 @@ Herkesin bir sensryo olusturmasini istiyorum.
 O senaryo üzerinden yukaridaki konulari içeren bir makale olacak.
 
 Makaleyi yayinlamak zorunda değilsiniz, eğer yayınlarsanız reponuza pushlarken README.md dosyasını düzenleyip en alta linki yerleştirin. Kolay gelsin.
+
+
+(**makale lini** )[http://www.omerbeden.com/get-into-to-web-api-with-asp-net-core/]
